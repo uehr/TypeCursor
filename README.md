@@ -1,1 +1,3 @@
-# TypeCursor
+# TypeCursok
+キーボードフックで遊んだだけなので、実用向きの設計ではありません。  
+TODO click監視処理関係をクラス化
