@@ -1,3 +1,3 @@
-# TypeCursok
-�L�[�{�[�h�t�b�N�ŗV�񂾂����Ȃ̂ŁA���p�����̐݌v�ł͂���܂���B  
-TODO click�Ď������֌W���N���X��
+# TypeCursor
+キーボードフックで遊んだだけなので、実用向きの設計ではありません。  
+動作状況は[こちら](https://www.youtube.com/watch?v=fWVyHOpQVxA)
